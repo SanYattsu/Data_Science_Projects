@@ -1,1 +1,1 @@
-**All project are private on the Yandex recommendations.**
+**All projects are private on the Yandex recommendations.**
