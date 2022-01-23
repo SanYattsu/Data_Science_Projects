@@ -96,3 +96,5 @@ Predict the final price of each home with 79 explanatory variables describing (a
 - sklearn
 - scipy.stats
 - xgboost
+
+[Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard)
