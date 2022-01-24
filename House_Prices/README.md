@@ -1,5 +1,4 @@
-# House Prices - Advanced Regression Techniques
-## Predict sales prices and practice feature engineering, RFs, and gradient boosting
+# House Prices Prediction - Advanced Regression Techniques
 
 ## Data
 The following data was available:
@@ -97,4 +96,4 @@ Predict the final price of each home with 79 explanatory variables describing (a
 - scipy.stats
 - xgboost
 
-[Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard)
+[Kaggle - leaderboard](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard)
