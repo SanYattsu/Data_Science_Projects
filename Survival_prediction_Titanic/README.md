@@ -25,4 +25,4 @@ Predict survival on the Titanic.
 - sklearn
 - scipy.stats
 
-[Kaggle](https://www.kaggle.com/c/titanic/leaderboard)
+[Kaggle - leaderboard](https://www.kaggle.com/c/titanic/leaderboard)
