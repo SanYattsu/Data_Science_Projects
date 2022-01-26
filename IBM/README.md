@@ -18,3 +18,20 @@ prediction using test data is found.
 ## Data
 - We made a get request to the SpaceX API and performed web scraping to collect Falcon 9 historical launch records from a Wikipedia page.
 - We perform data wrangling and downloaded the dataframe, found bad outcomes, and picked the classification variable that represents the outcome of each launch
+
+
+## Libraries used
+- pandas
+- numpy
+- seaborn 
+- matplotlib
+- sklearn 
+- plotly.express
+- dash
+- folium
+- sqlalchemy
+- requests
+- beautifulsoup4
+- datetime
+- os
+- wget
