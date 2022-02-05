@@ -11,7 +11,9 @@ Here you can find my Data Science projects and courseworks from Coursera and Yan
 - scipy
 - seaborn 
 - matplotlib
-- sklearn 
+- sklearn
+- keras
+- tensorflow
 - plotly
 - dash
 - folium
