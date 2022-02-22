@@ -32,4 +32,5 @@ Determine the market value of real estate objects, set parameters. This will all
 ## Libraries used
 - pandas
 - numpy
+- seaborn
 - matplotlib
