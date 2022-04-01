@@ -10,3 +10,4 @@
 - numpy
 - wget
 - re
+- apachelogs
