@@ -1,5 +1,5 @@
 # Data Science Projects
-Here you can find my Data Science projects and courseworks from Coursera and Yandex.
+Here you can find my Data Science projects, Kaggle competitions and courseworks from Coursera and Yandex.
 
 ## Technologies used:
     pandas   numpy  scipy   seaborn  matplotlib  dash   Pipeline
