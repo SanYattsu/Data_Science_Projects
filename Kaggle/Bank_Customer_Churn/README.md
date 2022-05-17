@@ -27,3 +27,4 @@ Build a model with a good F1-measure. Additionally, measure the AUC-ROC, compare
 - seaborn
 - matplotlib
 - sklearn
+- imblearn
