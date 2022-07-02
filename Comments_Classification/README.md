@@ -1,4 +1,4 @@
-# Comments Classification with BERT
+# Comments Classification
 
 ## Project Description
 
