@@ -8,25 +8,25 @@ This diverse dataset contains information about the startup ecosystem: organizat
 
 ## Goals
 
-* Create a database from existing .csv tables in ElephantSQL.
-* Upload the necessary data in accordance with the requests.
+- Create a database from existing .csv tables in ElephantSQL.
+- Upload the necessary data in accordance with the requests.
 
 
 ## Data
 
 CSV tables:
 
-* objects
-* acquisitions
-* degrees
-* funding_rounds
-* funds
-* investments
-* ipos
-* milestones
-* offices
-* people
-* relationships
+- objects
+- acquisitions
+- degrees
+- funding_rounds
+- funds
+- investments
+- ipos
+- milestones
+- offices
+- people
+- relationships
 
 ## Libraries used
 

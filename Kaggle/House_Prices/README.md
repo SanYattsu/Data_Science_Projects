@@ -1,6 +1,7 @@
 # House Prices Prediction - Advanced Regression Techniques
 
 ## Data
+
 The following data was available:
 
 - SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
@@ -85,6 +86,7 @@ The following data was available:
 - SaleCondition: Condition of sale
 
 ## Task
+
 Predict the final price of each home with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa.
 
 ## Libraries used
@@ -95,5 +97,3 @@ Predict the final price of each home with 79 explanatory variables describing (a
 - sklearn
 - scipy.stats
 - xgboost
-
-[Kaggle - leaderboard](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/leaderboard)

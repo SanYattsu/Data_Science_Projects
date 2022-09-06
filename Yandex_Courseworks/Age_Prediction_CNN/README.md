@@ -7,13 +7,13 @@ The APPA-REAL database contains 7,591 images with associated real and apparent a
 
 ## Goals
 
-* Creation of a recommendation system targeted at certain age groups.
-* Checking the possibility of controlling of the cashiers conscientiousness when selling alcohol using CV.
+- Creation of a recommendation system targeted at certain age groups.
+- Checking the possibility of controlling of the cashiers conscientiousness when selling alcohol using CV.
 
 
 ## Data
 
-* 7591 images with labels.
+- 7591 images with labels.
 
 
 ## Libraries used

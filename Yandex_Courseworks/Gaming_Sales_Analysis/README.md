@@ -5,17 +5,17 @@ The goal of the project is to identify patterns that determine the success of th
 
 ## Data
 
-* Name - the name of the game
-* Platform - platform
-* Year_of_Release - year of release
-* Genre - game genre
-* NA_sales - sales in North America (millions of copies sold)
-* EU_sales - sales in Europe (millions of copies sold)
-* JP_sales - sales in Japan (millions of copies sold)
-* Other_sales - sales in other countries (millions of copies sold)
-* Critic_Score - critics score (max 100)
-* User_Score - user score (maximum 10). TBD - To Be Determined.
-* Rating - rating from the ESRB (Entertainment Software Rating Board).
+- Name - the name of the game
+- Platform - platform
+- Year_of_Release - year of release
+- Genre - game genre
+- NA_sales - sales in North America (millions of copies sold)
+- EU_sales - sales in Europe (millions of copies sold)
+- JP_sales - sales in Japan (millions of copies sold)
+- Other_sales - sales in other countries (millions of copies sold)
+- Critic_Score - critics score (max 100)
+- User_Score - user score (maximum 10). TBD - To Be Determined.
+- Rating - rating from the ESRB (Entertainment Software Rating Board).
 
 ## Libraries used
 - pandas

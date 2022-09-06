@@ -6,7 +6,7 @@ The taxi company has collected historical data on taxi bookings at airports. To 
 
 ## Data
 
-* num_orders — the number of orders
+- num_orders — the number of orders
 
 ## Libraries used
 

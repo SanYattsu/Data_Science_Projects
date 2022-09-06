@@ -1,6 +1,12 @@
 # Comparison Yandex.Music users preferences from Moscow and St. Petersburg depending on the time and day of the week.
 
+## Task
+
+Compare the musical preferences of Yandex.Music users living in Moscow and St. Petersburg.
+Compare listening on different days by city, as well as compare the genres that users listen to in Moscow and St. Petersburg.
+
 ## Data
+
 The following data on listening tracks in the Yandex.Music service was available:
 
 - user_id: uniqe use id
@@ -11,11 +17,8 @@ The following data on listening tracks in the Yandex.Music service was available
 - day: the day when track played
 - time: the time when track played
 
-## Task
-Compare the musical preferences of Yandex.Music users living in Moscow and St. Petersburg.
-Compare listening on different days by city, as well as compare the genres that users listen to in Moscow and St. Petersburg.
-
 ## Libraries used
+
 - pandas
 - datetime
 - json

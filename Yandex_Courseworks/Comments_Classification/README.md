@@ -6,14 +6,14 @@ The online store launches a new service. Now users can edit and supplement produ
 
 ## Goals
 
-* Train the model to classify comments as positive or negative. 
-* Build a model with a quality metric F1 value of at least 0.75.
+- Train the model to classify comments as positive or negative. 
+- Build a model with a quality metric F1 value of at least 0.75.
 
 
 ## Data
 
-* text — users comments;
-* toxic — is comment toxic or not.
+- text — users comments;
+- toxic — is comment toxic or not.
 
 ## Libraries used
 

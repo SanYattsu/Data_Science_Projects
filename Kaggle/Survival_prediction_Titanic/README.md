@@ -1,6 +1,7 @@
 # Titanic - Machine Learning from Disaster
 
 ## Data
+
 The following data was available:
 
 - survival: 0 = No, 1 = Yes
@@ -15,9 +16,11 @@ The following data was available:
 - embarked: Port of Embarkation
 
 ## Task
+
 Predict survival on the Titanic.
 
 ## Libraries used
+
 - pandas
 - numpy
 - matplotlib.pyplot
@@ -25,4 +28,4 @@ Predict survival on the Titanic.
 - sklearn
 - scipy.stats
 
-[Kaggle - leaderboard](https://www.kaggle.com/c/titanic/leaderboard)
+[Kaggle](https://www.kaggle.com/competitions/titanic)
