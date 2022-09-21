@@ -1,5 +1,9 @@
 # Parsing Jobs on LinkedIn
 
+![image](https://user-images.githubusercontent.com/93816292/191527798-bba9dbd7-1743-4ca6-8b26-a85de31ba3bc.png)
+[link on tableau.com](https://public.tableau.com/app/profile/igor.shirokov/viz/LinkedInAnalysisofDataScientistsVacancies/LinkedInAnalysisofDataScientistsVacancies)
+
+
 ## Project Description
 
 In order to compile a dashboard, you need to gather Data Scientist vacancies data from LinkedIn.
