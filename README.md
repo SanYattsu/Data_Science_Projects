@@ -6,13 +6,13 @@ Kaggle competitions and courseworks from Coursera and Yandex.
 
 ## Content
 
-### Capstone projects
+### Capstone Projects
 
 * [Yandex Final Project](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Production_%D0%A1osts_Optimization)
 * [Beginner IBM Project](https://github.com/SanYattsu/Data_Science_Projects/tree/main/IBM_Courseworks/Space_X_Landing_Prediction)
 * [Advanced IBM Project](https://github.com/SanYattsu/Data_Science_Projects/tree/main/IBM_Courseworks/BTC_Price_Prediction)
 
-### Natural language processing (NLP)
+### Natural Language Processing (NLP)
 
 * [Dialogue Parser with TF-IDF](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/NLP_Dialogue_Parser)
 * [Toxic Comments Classification with BERT, TF-IDF and CatBoost](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Comments_Classification)
@@ -20,22 +20,24 @@ Kaggle competitions and courseworks from Coursera and Yandex.
 ### Computer Vision (CV)
 
 * [Working Time Evaluation](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/CV_Working_Time_Evaluation)
-* [Age_Prediction with Xception](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Age_Prediction_CNN)
+* [Age Prediction with Xception](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Age_Prediction_CNN)
 
 ### Timeseries
 
 * [Taxi Orders Prediction with Statsmodels](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Time_Series_Taxi)
 
-### Statistical Hypothesis Testing | Bootstrap
+### Statistical Hypothesis Testing | Optimization
 
+* [Electricity Cost Optimization](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/Electricity_Cost_Optimization)
 * [Determine Most Profitable Mining Point](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Petroleum_Producing_Bootstrap)
 * [Hypothesis Testing for Gaming Industry](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Gaming_Sales_Analysis)
 * [Tariff Determination for a Telecom Company](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Telecom_Tariff_Determination)
 
-### Parsing and Regex | Dashboard
+### Parsing and Regex | Dashboards
 
 * [Parsing LinkedIn with Selenium](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/Parsing_Jobs_on_LinkedIn)
 * [DNA Sequence Prediction](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/DNA_Sequence_Prediction)
+* [Apachelogs Parser](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/Apachelogs_Parser)
 
 ### PostgreSQL
 
