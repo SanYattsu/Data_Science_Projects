@@ -8,7 +8,8 @@ Kaggle competitions and courseworks from Coursera and Yandex.
 
 ### Capstone Projects
 
-* [Yandex Final Project](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Production_%D0%A1osts_Optimization)
+* [Yandex Regression Project](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Production_%D0%A1osts_Optimization)
+* [Yandex Classification Project](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Customer_Churn_Forecasting)
 * [Beginner IBM Project](https://github.com/SanYattsu/Data_Science_Projects/tree/main/IBM_Courseworks/Space_X_Landing_Prediction)
 * [Advanced IBM Project](https://github.com/SanYattsu/Data_Science_Projects/tree/main/IBM_Courseworks/BTC_Price_Prediction)
 
