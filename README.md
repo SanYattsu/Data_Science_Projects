@@ -1,6 +1,6 @@
 # Data Science Projects
 
-Here you can find my Data Science projects,
+Here you can find my Data Science and Data Analysis projects,
 Kaggle competitions and courseworks from Coursera and Yandex.
 
 
@@ -27,14 +27,14 @@ Kaggle competitions and courseworks from Coursera and Yandex.
 
 * [Taxi Orders Prediction with Statsmodels](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Time_Series_Taxi)
 
-### Statistical Hypothesis Testing | Optimization
+### Data Analisys
 
-* [Electricity Cost Optimization](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/Electricity_Cost_Optimization)
+* [Marketing Campaign Analysis](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Data_Analisys/Marketing_Campaign_Analysis)
 * [Determine Most Profitable Mining Point](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Petroleum_Producing_Bootstrap)
 * [Hypothesis Testing for Gaming Industry](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Gaming_Sales_Analysis)
 * [Tariff Determination for a Telecom Company](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Telecom_Tariff_Determination)
 
-### Parsing and Regex | Dashboards
+### Parsing and Regex
 
 * [Parsing LinkedIn with Selenium](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/Parsing_Jobs_on_LinkedIn)
 * [DNA Sequence Prediction](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/DNA_Sequence_Prediction)
@@ -49,12 +49,5 @@ Kaggle competitions and courseworks from Coursera and Yandex.
 * [Sklearn FeatureTransformer](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Car_Prices)
 * [Neural Network with NumPy](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/NN_Data_Protection)
 * [Custom Scoring in Sklearn](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Gold_Recovery_Prediction)
-* [Imblearn Sampling](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Kaggle/Bank_Customer_Churn)
+* [Electricity Cost Optimization](https://github.com/SanYattsu/Data_Science_Projects/tree/main/PET_Projects/Electricity_Cost_Optimization)
 * [Top 1% Kaggle](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Kaggle/Spaceship_Catastrophe)
-
-## Technologies used:
-
-    Pandas NumPy Sklearn SciPy Seaborn Matplotlib
-    Torch Keras TensorFlow BERT Transformers ARIMA
-    PCA Plotly Folium SQLalchemy BeautifulSoup4 Re
-    LSTM Folium LightGBM NLTK Pickle CatBoost Dash
