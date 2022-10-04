@@ -28,11 +28,10 @@ Kaggle competitions and courseworks from Coursera and Yandex.
 * [Taxi Orders Prediction with Statsmodels](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Time_Series_Taxi)
 
 ### Data Analisys
-/Data_Analisys/SQL_Bookstore_Analysis
+
 * [Marketing Campaign Analysis](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Data_Analisys/Marketing_Campaign_Analysis)
 * [Determine Most Profitable Mining Point](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Petroleum_Producing_Bootstrap)
 * [Hypothesis Testing for Gaming Industry](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Gaming_Sales_Analysis)
-* [Bookstore Analysis with SQL](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Data_Analisys/SQL_Bookstore_Analysis)
 
 ### Parsing and Regex
 
@@ -43,6 +42,7 @@ Kaggle competitions and courseworks from Coursera and Yandex.
 ### PostgreSQL
 
 * [Database Creation and Data Extraction](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Kaggle/PostgreSQL_Investments)
+* [Bookstore Analysis with SQL](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Data_Analisys/SQL_Bookstore_Analysis)
 
 ### Notable Projects (Named by Feature)
 
