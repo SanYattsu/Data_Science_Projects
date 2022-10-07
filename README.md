@@ -29,6 +29,7 @@ Kaggle competitions and courseworks from Coursera and Yandex.
 
 ### Data Analisys
 
+* [Hypothesis Prioritization and A/B Testing](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Data_Analisys/Hypothesis-AB-Testing)
 * [Marketing Campaign Analysis](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Data_Analisys/Marketing_Campaign_Analysis)
 * [Determine Most Profitable Mining Point](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Petroleum_Producing_Bootstrap)
 * [Hypothesis Testing for Gaming Industry](https://github.com/SanYattsu/Data_Science_Projects/tree/main/Yandex_Courseworks/Gaming_Sales_Analysis)
