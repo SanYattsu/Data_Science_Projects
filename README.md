@@ -1,8 +1,8 @@
 # Data Science Projects
 
-Here you can find my Data Science and Data Analysis projects,
-Kaggle competitions and courseworks from Coursera and Yandex.
+Here you can find my Data Art, including but not limited to Data Science and Data Analysis PET-projects, Kaggle competitions and courseworks.
 
+![DataArt](https://user-images.githubusercontent.com/93816292/196025848-b1520861-2f04-40de-b7c9-bcd6811547ad.jpg)
 
 ## Content
 
