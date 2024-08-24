@@ -1,68 +1,76 @@
+---
+# https://pytorch.org/get-started/locally/
 name: ds
 channels:
   - conda-forge
   - defaults
+  - nvidia
+  - nvidia/label/cuda-12.1.0
+  - pytorch
 dependencies:
-  - python
-  - flask
+  - arrow
   - ca-certificates
   - catboost
-  - lightgbm
+  - cudnn
+  - flask
   - ipykernel
   - ipython
   - ipywidgets
-  - keyring
+  - jinja2
   - joblib
-  - jupyter-dash
+  - jq
+  - keyring
+  - lightgbm
   - matplotlib
   - matplotlib-base
   - matplotlib-inline
+  - nodejs
   - numba
   - numpy
+  - nvidia/label/cuda-12.1.0::cuda-toolkit
   - optuna
   - packaging
   - pandas
+  - phik
   - pillow
   - pip
   - plotly
-  - arrow
   - pyarrow
+  - python
   - python-dotenv
+  - pytorch
+  - pytorch-cuda=12.1
   - requests
   - scikit-learn
   - scipy
   - seaborn
-  - sqlite
   - selenium
   - setuptools
+  - sqlite
   - stack_data
   - statsmodels
+  - torchaudio
+  - torchvision
   - tqdm
   - urllib3
   - vc
   - vs2015_runtime
+  - wheel
   - widgetsnbextension
   - yaml
   - ydata-profiling
-  - phik
-  - cudatoolkit==11.8
-  - cudnn
-  - jinja2
-  - jq
-  - wheel
   - pip:
-    - xlrd
-    - ultralytics
+    - aiohttp
+    - apscheduler
+    - html5lib
+    - jupyterlab
+    - lingua-language-detector
+    - markdown2
     - openpyxl
     - psycopg2
-    - sqlalchemy
-    - jupyterlab
-    - markdown2
-    - aiohttp
-    - redis
     - python-docx
-    - apscheduler
     - python-telegram-bot
-    - lingua-language-detector
-# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-# https://pytorch.org/get-started/locally/
+    - redis
+    - sqlalchemy
+    - ultralytics
+    - xlrd
