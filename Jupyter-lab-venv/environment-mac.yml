@@ -1,0 +1,72 @@
+---
+# Apple Silicon (osx-arm64) variant of environment.yml, for Miniforge.
+# CONDA_SUBDIR=osx-arm64 conda env create -f environment-mac.yml
+name: ds
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - arch-py
+  - arrow
+  - boto3
+  - catboost
+  - flask
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jinja2
+  - joblib
+  - jq
+  - jupyterlab
+  - keyring
+  - matplotlib
+  - nltk
+  - nodejs
+  - numba
+  - numpy
+  - packaging
+  - pandas
+  - phik
+  - pillow
+  - pip
+  - plotly
+  - polars
+  - psycopg2
+  - pyarrow
+  - pymupdf
+  - python-dotenv
+  - python-pptx
+  - pytorch
+  - requests
+  - scikit-learn
+  - scipy
+  - seaborn
+  - selenium
+  - setuptools
+  - spacy
+  - sqlite
+  - statsmodels
+  - ta-lib
+  - tqdm
+  - urllib3
+  - wheel
+  - widgetsnbextension
+  - yaml
+
+  - pip:
+    - aiohttp
+    - apscheduler
+    - html5lib
+    - lingua-language-detector
+    - markdown2
+    - openpyxl
+    - python-docx
+    - python-telegram-bot
+    - redis
+    - sqlalchemy
+    - ultralytics
+    - xlrd
+
+# spaCy's Russian models aren't on conda-forge or PyPI; after creating the env:
+#   python -m spacy download ru_core_news_sm
+#   python -m spacy download ru_core_news_lg

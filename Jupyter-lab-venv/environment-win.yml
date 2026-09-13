@@ -59,6 +59,7 @@ dependencies:
   - widgetsnbextension
   - yaml
   - ydata-profiling
+
   - pip:
     - aiohttp
     - apscheduler
